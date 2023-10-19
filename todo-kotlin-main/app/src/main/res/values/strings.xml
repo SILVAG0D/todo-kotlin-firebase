@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ToDoTrab</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="place_holder">Place Holder</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="title_form_register">Cadastre-se</string>
+    <string name="title_form_login">Login</string>
+    <string name="title_form_login_cadastro">Cadastre-se</string>
+    <string name="title_form_login_login">Faça seu Login!!</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Senha</string>
+    <string name="text_button_register">Cadastrar</string>
+    <string name="text_button_logar">Logar</string>
+    <string name="text_button_deslogar">Sair</string>
+
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972179882015",
+    "project_id": "todo-a50cd",
+    "storage_bucket": "todo-a50cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972179882015:android:1b5d3949544215a6e4d52a",
+        "android_client_info": {
+          "package_name": "com.example.todotrab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDerSuqPm_109bwOtyk2UlEUsiGrktBx8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
